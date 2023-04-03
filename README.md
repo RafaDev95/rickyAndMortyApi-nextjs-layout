@@ -1,4 +1,4 @@
-<img src='blob:https://vercel.com/1b925117-d791-4c61-b764-0582d76cd321' alt='Banner'/>
+<img src='https://ik.imagekit.io/b5di91ako/rickyandmorty.png?updatedAt=1680559146876' alt='Banner'/>
 
 
 
@@ -35,18 +35,18 @@
 
 ### Estrutura: 
   
-  ** Pastas: 
-  *** Src/layout: São partes essênciais para o projeto e que estarão presentes em todas as páginas. O arquivo layout é um componente         que contém o Header e Footer. Além de receber um children que é para receber qualquer componente e dessa forma definir o layout         de todas as páginas. O mesmo é usado no ```_app.tsx``` que é o arquivo principal para renderização do Next de forma geral;
+     Pastas: 
+  * Src/layout: São partes essênciais para o projeto e que estarão presentes em todas as páginas. O arquivo layout é um componente         que contém o Header e Footer. Além de receber um children que é para receber qualquer componente e dessa forma definir o layout         de todas as páginas. O mesmo é usado no ```_app.tsx``` que é o arquivo principal para renderização do Next de forma geral;
   
-  *** Src/components: Componentes que são e podem ser reutilizados em diversas partes do projeto.
-  *** Src/utils: Qualquer coisa que eu não saiba onde colocar.
-  *** Src/types: Types e Interfaces do Typescript.
-  *** Src/reduxState ou redux: Tudo relacionado ao Redux.
-  *** Src/styles: Css.
-  *** Src/api: Tudo relacionado a requisições.
+  * Src/components: Componentes que são e podem ser reutilizados em diversas partes do projeto.
+  * Src/utils: Qualquer coisa que eu não saiba onde colocar.
+  * Src/types: Types e Interfaces do Typescript.
+  * Src/reduxState ou redux: Tudo relacionado ao Redux.
+  * Src/styles: Css.
+  * Src/api: Tudo relacionado a requisições.
   
 ### Páginas: 
-  ** O layout consiste em três páginas: Home, Favoritos e do Personagem específico selecinonado.
+  * O layout consiste em três páginas: Home, Favoritos e do Personagem específico selecinonado.
   ** Há um "Layout Component" chamado ***HeroContent que é utilizado na Home e Favoritos. 
   ** Esse ***HeroContent possui os personagens que serão mostrados e com isso ele renderiza os Cards passando essas informações.
   ** O funcionamento é mesmo para as 2 páginas onde ele é utilizado.
