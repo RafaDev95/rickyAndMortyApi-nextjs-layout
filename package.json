@@ -1,0 +1,45 @@
+{
+  "name": "green-access-challenge",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@tanstack/react-query": "^4.28.0",
+    "@tanstack/react-query-devtools": "^4.28.0",
+    "@typescript-eslint/parser": "^5.57.0",
+    "eslint-plugin-react": "^7.32.2",
+    "next": "latest",
+    "nextjs-progressbar": "^0.0.16",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hot-toast": "^2.4.0",
+    "react-redux": "^8.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-redux": "^7.1.25",
+    "@typescript-eslint/eslint-plugin": "^5.57.0",
+    "eslint": "^8.0.1",
+    "eslint-config-next": "latest",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "^2.8.7",
+    "typescript": "*"
+  }
+}
