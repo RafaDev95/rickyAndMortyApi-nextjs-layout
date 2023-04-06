@@ -55,7 +55,7 @@
 
 ### Acesso ao Projeto:
 
-[🔗 Rick And Morty](rd95-rick-morty-api.vercel.app)
+[🔗 Rick And Morty](https://rd95-rick-morty-api.vercel.app/)
 
 
 ### Como executar
