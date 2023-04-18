@@ -47,10 +47,10 @@
   
 ### Páginas: 
   * O layout consiste em três páginas: Home, Favoritos e do Personagem específico selecinonado.
-  ** Há um "Layout Component" chamado ***HeroContent que é utilizado na Home e Favoritos. 
-  ** Esse ***HeroContent possui os personagens que serão mostrados e com isso ele renderiza os Cards passando essas informações.
-  ** O funcionamento é mesmo para as 2 páginas onde ele é utilizado.
-  ** No momento, optei por salva as informações completa do personagem favoritado. Poderia pegar somente o ID e fazer uma requisição        com ele, mas eu priorizo a menor quantidade de requisições. Sempre que possíve, claro.
+  * Há um "Layout Component" chamado ```HeroContent``` que é utilizado na Home e Favoritos. 
+  * Esse ```HeroContent``` possui os personagens que serão mostrados e com isso ele renderiza os Cards passando essas informações.
+  * O funcionamento é mesmo para as 2 páginas onde ele é utilizado.
+  * No momento, optei por salva as informações completa do personagem favoritado. Poderia pegar somente o ID e fazer uma requisição        com ele, mas eu priorizo a menor quantidade de requisições. Sempre que possíve, claro.
 
 
 ### Acesso ao Projeto:
