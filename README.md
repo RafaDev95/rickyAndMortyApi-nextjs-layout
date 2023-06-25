@@ -15,11 +15,6 @@
 # Rick And Morty - Layout
 
 
-#### Status:
-![Badge](https://img.shields.io/static/v1?label=Desafio&message=Conclu%C3%ADdo&color=%3CCOLOR%3E)
-
-![Badge](https://img.shields.io/static/v1?label=Projeto&message=Desenvolvimento&color=yellow)
-
 ### Descrição do Projeto:
 
 **Basicamente um cátalogo com algumas cartas apresentando os personagens.**
